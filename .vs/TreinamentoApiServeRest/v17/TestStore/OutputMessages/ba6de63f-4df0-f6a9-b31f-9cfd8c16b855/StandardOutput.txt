@@ -1,0 +1,244 @@
+id: DDJnnRrIP4qeAUyJ
+Code: 200 Response {
+    "quantidade": 34,
+    "usuarios": [
+        {
+            "nome": "Lady",
+            "email": "lady96@qa.com",
+            "password": "adm123",
+            "administrador": "true",
+            "_id": "1zNy6rWWebfq0tyJ"
+        },
+        {
+            "nome": "Lord",
+            "email": "Lord81@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "4GHIk3kCV2FNgnya"
+        },
+        {
+            "nome": "Lord",
+            "email": "Lord50@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "5vet2wodzmC1ALGU"
+        },
+        {
+            "nome": "Usuário Editado",
+            "email": "usuarioEditado81@qa.com",
+            "password": "editar123",
+            "administrador": "true",
+            "_id": "CqPzONO43hrUvudS"
+        },
+        {
+            "nome": "Lord",
+            "email": "Lord33@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "DDJnnRrIP4qeAUyJ"
+        },
+        {
+            "nome": "Lady",
+            "email": "lady58@qa.com",
+            "password": "adm123",
+            "administrador": "true",
+            "_id": "DhbEU4NpktoXXb3G"
+        },
+        {
+            "nome": "Lord",
+            "email": "Lord68@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "FudBeHatQixeR9YT"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "G20mUy4BcLMNLWJO"
+        },
+        {
+            "nome": "Lord",
+            "email": "Lord10@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "GU6dwsnItz6FdPGf"
+        },
+        {
+            "nome": "Usuário Editado",
+            "email": "usuarioEditado4@qa.com",
+            "password": "editar123",
+            "administrador": "true",
+            "_id": "I3HuzPAzGT539mwh"
+        },
+        {
+            "nome": "Lady",
+            "email": "lady71@qa.com",
+            "password": "adm123",
+            "administrador": "true",
+            "_id": "QVtqnZ1PYp7FR18d"
+        },
+        {
+            "nome": "Lord",
+            "email": "Lord56@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "R0prJEaFDQAclrkt"
+        },
+        {
+            "nome": "Lord",
+            "email": "Lord89@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "SxfiascQRBQNaicA"
+        },
+        {
+            "nome": "Lady",
+            "email": "lady35@qa.com",
+            "password": "adm123",
+            "administrador": "true",
+            "_id": "TREpNjKC5m3I0vMh"
+        },
+        {
+            "nome": "Lady",
+            "email": "lady26@qa.com",
+            "password": "adm123",
+            "administrador": "true",
+            "_id": "VqUWxXyjHRfRlzVJ"
+        },
+        {
+            "nome": "Lady",
+            "email": "lady88@qa.com",
+            "password": "adm123",
+            "administrador": "true",
+            "_id": "Wm6gngBMlrI5Fda5"
+        },
+        {
+            "nome": "Lady",
+            "email": "lady97@qa.com",
+            "password": "adm123",
+            "administrador": "true",
+            "_id": "XPQv7QcXzpICYSkO"
+        },
+        {
+            "nome": "Lady",
+            "email": "lady38@qa.com",
+            "password": "adm123",
+            "administrador": "true",
+            "_id": "YfQDXO3bDoEVsJMy"
+        },
+        {
+            "nome": "Lord",
+            "email": "Lord78@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "aCC2D5lm6jcml6C0"
+        },
+        {
+            "nome": "Lord",
+            "email": "Lord88@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "e2l43GStxtBSSiCz"
+        },
+        {
+            "nome": "Lord",
+            "email": "Lord90@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "ewWGaFF67mPHjgxd"
+        },
+        {
+            "nome": "Lord",
+            "email": "Lord23@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "jleWisSTkntZJ7MX"
+        },
+        {
+            "nome": "Lord",
+            "email": "Lord96@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "kbWDNJtO27Ac83yg"
+        },
+        {
+            "nome": "Lady",
+            "email": "lady64@qa.com",
+            "password": "adm123",
+            "administrador": "true",
+            "_id": "mVmG5nLOpgngp8Cx"
+        },
+        {
+            "nome": "Lord",
+            "email": "Lord55@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "muUdpPLU3KYRDTdS"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "beltrano12@qa.com.br",
+            "password": "teste",
+            "administrador": "true",
+            "_id": "o5PldMts20tOO7rW"
+        },
+        {
+            "nome": "Lady",
+            "email": "lady94@qa.com",
+            "password": "adm123",
+            "administrador": "true",
+            "_id": "oCZ1iRjSEol8Bd3D"
+        },
+        {
+            "nome": "Usuário Editado",
+            "email": "usuarioEditado54@qa.com",
+            "password": "editar123",
+            "administrador": "true",
+            "_id": "pYXlJEdTxd9oB0bZ"
+        },
+        {
+            "nome": "Usuário Editado",
+            "email": "usuarioEditado20@qa.com",
+            "password": "editar123",
+            "administrador": "true",
+            "_id": "ptybvFPhCmOpAyYf"
+        },
+        {
+            "nome": "Hórus",
+            "email": "horus@com.br",
+            "password": "teste",
+            "administrador": "false",
+            "_id": "vXK8U1vPjVPz9o6N"
+        },
+        {
+            "nome": "Lady",
+            "email": "lady87@qa.com",
+            "password": "adm123",
+            "administrador": "true",
+            "_id": "vpPZDS8KJsUqrUAe"
+        },
+        {
+            "nome": "Lord",
+            "email": "Lord87@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "wSuHYrv9uWB9JZ2u"
+        },
+        {
+            "nome": "Fulano da Silva",
+            "email": "wuzy@emailteste.com",
+            "password": "1234",
+            "administrador": "true",
+            "_id": "wWDVp2KOoohgoqa3"
+        },
+        {
+            "nome": "Lord",
+            "email": "Lord25@qa.com",
+            "password": "teste123",
+            "administrador": "false",
+            "_id": "xkiMsEsTOyGROpcR"
+        }
+    ]
+}
