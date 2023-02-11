@@ -7,8 +7,8 @@ Projeto criado com o intuito de praticar meus conhecimentos em automação de te
 <br><br>
 ✦ Neste projeto foi utilizado:
 <br>
-Linguagem de programação: C# 
+-Linguagem de programação: C# 
 <br>
-Editor de código: Visual Studio
+-Editor de código: Visual Studio
 <br>
-Pacotes do NuGet: RestSharp/Projeto de testes com MSTest
+-Pacotes do NuGet: RestSharp/Projeto de testes com MSTest
